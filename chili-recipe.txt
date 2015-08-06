@@ -7,7 +7,6 @@ Ingredients:
  - 1 8-ounce can tomato sauce
  - 1 tablespoon cocoa powder
  - 2 tablespoons chili powder
- - 1 teaspoon ground cumin
  - 1 teaspoon ground oregano
  - 1 teaspoon salt
  - 1/4 teaspoon cayenne pepper
@@ -18,8 +17,9 @@ Ingredients:
 Directions:
  1. Brown the ground beef in a large pot and drain off the excess fat.
  2. Using the same pot you used to brown the beef, sautee the onion, garlic and jalapeno.
- 3. Add the tomato sauce, cocoa powder, chili powder, cumin, oregano, cilantro, salt, and
+ 3. Add the tomato sauce, cocoa powder, chili powder, oregano, cilantro, salt, and
     cayenne.
  4. Stir, then cover and simmer over low heat for one hour.
  5. Mix the corn flour and 1/2 cup water in a small bowl.  Add to chili.
  6. Add the beans and simmer for 10 more minutes.
+ 
